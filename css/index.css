@@ -24991,6 +24991,7 @@ h3 {
   color: #ffffff;
 }
 h1 {
+  font-family: 'Courier New', Courier, monospace;
   color: #ffffff;
   border-bottom: 1px solid #f47e20;
   text-align: center;
@@ -25000,6 +25001,7 @@ h1 {
   font-size: 40px;
 }
 h2 {
+  font-family: 'Courier New', Courier, monospace;
   color: #f47e20;
   padding: 10px;
   font-size: 28px;
@@ -25077,6 +25079,156 @@ p {
   box-shadow: #f47e20 2px 4px 2px;
 }
 .nav-border svg {
+  font-size: 16px;
+}
+.services-card {
+  margin: 90px auto 0px auto;
+  width: 94%;
+}
+.services-card h1 {
+  font-size: 32px;
+  padding: 0px;
+  text-transform: uppercase;
+  width: 96%;
+}
+.services-card img {
+  width: 60px;
+  margin: 0px auto 15px auto;
+  display: block;
+}
+.services-card section {
+  background-color: #6969699d;
+  width: 88%;
+  margin: 0px auto 0px auto;
+  padding: 20px 0px 10px 0px;
+}
+.services-card ul {
+  list-style: square outside none;
+  color: #f47e20;
+}
+.services-card ul li span {
+  color: #ffffff;
+  font-size: 18px;
+}
+.services-card-mobil {
+  margin: 20px auto 0px auto;
+  width: 94%;
+}
+.services-card-mobil h1 {
+  font-size: 32px;
+  padding: 0px;
+  text-transform: uppercase;
+  width: 96%;
+}
+.services-card-mobil img {
+  width: 60px;
+  margin: 0px auto 15px auto;
+  display: block;
+}
+.services-card-mobil section {
+  background-color: #6969699d;
+  width: 88%;
+  margin: 0px auto 0px auto;
+  padding: 20px 0px 10px 0px;
+}
+.services-card-mobil ul {
+  list-style: square outside none;
+  color: #f47e20;
+}
+.services-card-mobil ul li span {
+  color: #ffffff;
+  font-size: 18px;
+}
+.services-card-main {
+  margin: 0px auto 0px auto;
+  width: 94%;
+}
+.services-card-main h1 {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0px;
+  width: 96%;
+}
+.services-card-main img {
+  width: 60px;
+  margin: 0px auto 15px auto;
+  display: block;
+}
+.services-card-main section {
+  background-color: #6969699d;
+  width: 88%;
+  margin: 0px auto 0px auto;
+  padding: 20px 0px 10px 0px;
+}
+.services-card-main ul {
+  list-style: square outside none;
+  color: #f47e20;
+}
+.services-card-main ul li span {
+  color: #ffffff;
+  font-size: 18px;
+}
+.text-blog-container {
+  width: 80%;
+  margin: 10px auto 10px auto;
+}
+.text-blog-container h1 {
+  width: 100%;
+}
+.text-blog-container section {
+  background-color: #6969699d;
+  width: 80%;
+  margin: 0px auto 10px auto;
+  padding: 20px;
+}
+.text-blog-container img {
+  width: 80px;
+  display: block;
+  margin: 20px auto 15px auto;
+}
+.text-blog-container section h2 {
+  display: list-item;
+  list-style-type: square;
+  list-style-position: inside;
+}
+.text-blog-container section h2 span {
+  color: #ffffff;
+  font-size: 36px;
+}
+.text-blog-container article {
+  white-space: pre-line;
+  font-size: 16px;
+}
+.text-blog-container-mobil {
+  width: 92%;
+  margin: 10px auto 10px auto;
+}
+.text-blog-container-mobil h1 {
+  width: 100%;
+}
+.text-blog-container-mobil section {
+  background-color: #6969699d;
+  width: 90%;
+  margin: 0px auto 10px auto;
+  padding: 20px;
+}
+.text-blog-container-mobil img {
+  width: 80px;
+  display: block;
+  margin: 20px auto 15px auto;
+}
+.text-blog-container-mobil section h2 {
+  display: list-item;
+  list-style-type: square;
+  list-style-position: inside;
+}
+.text-blog-container-mobil section h2 span {
+  color: #ffffff;
+  font-size: 36px;
+}
+.text-blog-container-mobil article {
+  white-space: pre-line;
   font-size: 16px;
 }
 @font-face {
